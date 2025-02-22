@@ -1,4 +1,4 @@
-# Britist-Airways-likelyhood-of-Patronage
+
 # British Airways Customer Booking Prediction ✈️
 
 ![GitHub](https://img.shields.io/github/license/yourusername/british-airways-booking-prediction)
